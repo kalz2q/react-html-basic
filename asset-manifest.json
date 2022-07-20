@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-html-basic/static/css/main.073c9b0a.css",
+    "main.js": "/react-html-basic/static/js/main.445a218a.js",
+    "static/js/787.debb424b.chunk.js": "/react-html-basic/static/js/787.debb424b.chunk.js",
+    "static/media/cloud.svg": "/react-html-basic/static/media/cloud.b158d12af765aad074edc4d7b76216ea.svg",
+    "static/media/tenshi.JPG": "/react-html-basic/static/media/tenshi.c2b901789648eb1704e6.JPG",
+    "index.html": "/react-html-basic/index.html",
+    "main.073c9b0a.css.map": "/react-html-basic/static/css/main.073c9b0a.css.map",
+    "main.445a218a.js.map": "/react-html-basic/static/js/main.445a218a.js.map",
+    "787.debb424b.chunk.js.map": "/react-html-basic/static/js/787.debb424b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.445a218a.js"
+  ]
+}
